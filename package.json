@@ -1,0 +1,24 @@
+{
+  "name": "formula-test-by-chan",
+  "version": "1.0.4",
+  "description": "famous formula",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanDru-Balu/formula.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanDru-Balu/formula/issues"
+  },
+  "homepage": "https://github.com/ChanDru-Balu/formula#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
