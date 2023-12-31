@@ -34,4 +34,4 @@ This TypeScript project provides functions to calculate the area of various geom
 To use this library in your TypeScript project, you can install it via npm:
 
 ```bash
-npm install geometric-area-calculator
+npm i formula-test-by-chan

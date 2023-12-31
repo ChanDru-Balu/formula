@@ -1,7 +1,7 @@
 {
   "name": "formula-test-by-chan",
-  "version": "1.0.4",
-  "description": "famous formula",
+  "version": "1.0.5",
+  "description": "Added 2D&3D Shapes Area",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
